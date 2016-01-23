@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example1", "Example1\Exampl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example2", "Example2\Example2.csproj", "{EDB343AE-B2C6-4D04-B1A8-0731EEBF1DDB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example3", "Example3\Example3.csproj", "{315A1298-E805-47BF-A647-6970157E7678}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,20 +23,12 @@ Global
 		{EDB343AE-B2C6-4D04-B1A8-0731EEBF1DDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDB343AE-B2C6-4D04-B1A8-0731EEBF1DDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDB343AE-B2C6-4D04-B1A8-0731EEBF1DDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{315A1298-E805-47BF-A647-6970157E7678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{315A1298-E805-47BF-A647-6970157E7678}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{315A1298-E805-47BF-A647-6970157E7678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{315A1298-E805-47BF-A647-6970157E7678}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 3
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://bsnbk.visualstudio.com/defaultcollection
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = Example1\\Example1.csproj
-		SccProjectName1 = Example1
-		SccLocalPath1 = Example1
-		SccProjectUniqueName2 = Example2\\Example2.csproj
-		SccProjectName2 = Example2
-		SccLocalPath2 = Example2
 	EndGlobalSection
 EndGlobal
